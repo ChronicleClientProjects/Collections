@@ -1,0 +1,378 @@
+0.1.3 - 2011/08/11 - Generate toString, hashCode and equals.
+0.1.2 - 2011/08/10 - Improve generated support.
+0.1.1 - 2011/08/09 - Generated Object field support
+0.1   - 2011/08/08 - Initial release
+
+/opt/java/jdk1.6.0_26/bin/java -XX:+UseLargePages -Didea.launcher.port=7550 -Didea.launcher.bin.path=/opt/idea/idea-IC-107.322/bin -Dfile.encoding=UTF-8 -classpath /opt/idea/idea-IC-107.322/lib/idea_rt.jar:/opt/idea/idea-IC-107.322/plugins/junit/lib/junit-rt.jar:/opt/java/jdk1.6.0_26/jre/lib/management-agent.jar:/opt/java/jdk1.6.0_26/jre/lib/jsse.jar:/opt/java/jdk1.6.0_26/jre/lib/charsets.jar:/opt/java/jdk1.6.0_26/jre/lib/deploy.jar:/opt/java/jdk1.6.0_26/jre/lib/alt-rt.jar:/opt/java/jdk1.6.0_26/jre/lib/rt.jar:/opt/java/jdk1.6.0_26/jre/lib/plugin.jar:/opt/java/jdk1.6.0_26/jre/lib/javaws.jar:/opt/java/jdk1.6.0_26/jre/lib/alt-string.jar:/opt/java/jdk1.6.0_26/jre/lib/resources.jar:/opt/java/jdk1.6.0_26/jre/lib/jce.jar:/opt/java/jdk1.6.0_26/jre/lib/ext/localedata.jar:/opt/java/jdk1.6.0_26/jre/lib/ext/dnsns.jar:/opt/java/jdk1.6.0_26/jre/lib/ext/sunpkcs11.jar:/opt/java/jdk1.6.0_26/jre/lib/ext/sunjce_provider.jar:/home/peter/libs/HugeMemory/target/test-classes:/home/peter/libs/HugeMemory/target/classes:/home/peter/.m2/repository/junit/junit/4.8.2/junit-4.8.2.jar:/home/peter/.m2/repository/asm/asm-all/3.3.1/asm-all-3.3.1.jar com.intellij.rt.execution.application.AppMain com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 vanilla.java.collections.HugeArrayBuilderTest,testCreateTypesMapped
+Java HotSpot(TM) 64-Bit Server VM warning: Failed to reserve shared memory (errno = 12).
+0 sec - used    4.38 MB heap,    0.0 MB direct.
+0 sec - used    7.36 MB heap,    0.0 MB direct.
+0 sec - used    2.68 MB heap,    0.0 MB direct.
+Updating
+... updated 10 million.
+... updated 20 million.
+... updated 30 million.
+... updated 40 million.
+... updated 50 million.
+... updated 60 million.
+... updated 70 million.
+... updated 80 million.
+... updated 90 million.
+... updated 100 million.
+... updated 110 million.
+... updated 120 million.
+... updated 130 million.
+10 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 140 million.
+... updated 150 million.
+... updated 160 million.
+... updated 170 million.
+... updated 180 million.
+... updated 190 million.
+... updated 200 million.
+... updated 210 million.
+20 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 220 million.
+... updated 230 million.
+... updated 240 million.
+... updated 250 million.
+... updated 260 million.
+... updated 270 million.
+... updated 280 million.
+30 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 290 million.
+... updated 300 million.
+... updated 310 million.
+... updated 320 million.
+... updated 330 million.
+... updated 340 million.
+40 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 350 million.
+... updated 360 million.
+... updated 370 million.
+... updated 380 million.
+... updated 390 million.
+... updated 400 million.
+... updated 410 million.
+50 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 420 million.
+... updated 430 million.
+60 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 440 million.
+... updated 450 million.
+... updated 460 million.
+... updated 470 million.
+70 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 480 million.
+... updated 490 million.
+80 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 500 million.
+... updated 510 million.
+... updated 520 million.
+... updated 530 million.
+... updated 540 million.
+... updated 550 million.
+90 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 560 million.
+... updated 570 million.
+... updated 580 million.
+100 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 590 million.
+... updated 600 million.
+... updated 610 million.
+... updated 620 million.
+... updated 630 million.
+110 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 640 million.
+... updated 650 million.
+... updated 660 million.
+... updated 670 million.
+120 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 680 million.
+... updated 690 million.
+... updated 700 million.
+... updated 710 million.
+... updated 720 million.
+130 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 730 million.
+... updated 740 million.
+140 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 750 million.
+... updated 760 million.
+... updated 770 million.
+150 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 780 million.
+... updated 790 million.
+... updated 800 million.
+... updated 810 million.
+160 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 820 million.
+... updated 830 million.
+170 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 840 million.
+... updated 850 million.
+... updated 860 million.
+... updated 870 million.
+... updated 880 million.
+... updated 890 million.
+180 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 900 million.
+... updated 910 million.
+190 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 920 million.
+... updated 930 million.
+... updated 940 million.
+200 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 950 million.
+... updated 960 million.
+... updated 970 million.
+... updated 980 million.
+210 sec - used    3.67 MB heap,    0.0 MB direct.
+220 sec - used    3.67 MB heap,    0.0 MB direct.
+... updated 990 million.
+... updated 1000 million.
+Took 223 ns per object write
+Checking
+... checked 10 million.
+... checked 20 million.
+... checked 30 million.
+230 sec - used   26.73 MB heap,    0.0 MB direct.
+... checked 40 million.
+... checked 50 million.
+... checked 60 million.
+... checked 70 million.
+... checked 80 million.
+... checked 90 million.
+... checked 100 million.
+... checked 110 million.
+240 sec - used  217.35 MB heap,    0.0 MB direct.
+... checked 120 million.
+... checked 130 million.
+... checked 140 million.
+... checked 150 million.
+... checked 160 million.
+... checked 170 million.
+... checked 180 million.
+... checked 190 million.
+... checked 200 million.
+250 sec - used  172.07 MB heap,    0.0 MB direct.
+... checked 210 million.
+... checked 220 million.
+... checked 230 million.
+... checked 240 million.
+... checked 250 million.
+... checked 260 million.
+... checked 270 million.
+... checked 280 million.
+... checked 290 million.
+260 sec - used  217.44 MB heap,    0.0 MB direct.
+... checked 300 million.
+... checked 310 million.
+... checked 320 million.
+... checked 330 million.
+... checked 340 million.
+... checked 350 million.
+... checked 360 million.
+... checked 370 million.
+... checked 380 million.
+270 sec - used   58.27 MB heap,    0.0 MB direct.
+... checked 390 million.
+... checked 400 million.
+... checked 410 million.
+... checked 420 million.
+... checked 430 million.
+... checked 440 million.
+... checked 450 million.
+... checked 460 million.
+280 sec - used  305.50 MB heap,    0.0 MB direct.
+... checked 470 million.
+... checked 480 million.
+... checked 490 million.
+... checked 500 million.
+... checked 510 million.
+... checked 520 million.
+... checked 530 million.
+... checked 540 million.
+... checked 550 million.
+290 sec - used   59.05 MB heap,    0.0 MB direct.
+... checked 560 million.
+... checked 570 million.
+... checked 580 million.
+... checked 590 million.
+... checked 600 million.
+... checked 610 million.
+... checked 620 million.
+... checked 630 million.
+300 sec - used  214.50 MB heap,    0.0 MB direct.
+... checked 640 million.
+... checked 650 million.
+... checked 660 million.
+... checked 670 million.
+... checked 680 million.
+... checked 690 million.
+... checked 700 million.
+... checked 710 million.
+... checked 720 million.
+310 sec - used  224.72 MB heap,    0.0 MB direct.
+... checked 730 million.
+... checked 740 million.
+... checked 750 million.
+... checked 760 million.
+... checked 770 million.
+... checked 780 million.
+... checked 790 million.
+... checked 800 million.
+... checked 810 million.
+320 sec - used   68.63 MB heap,    0.0 MB direct.
+... checked 820 million.
+... checked 830 million.
+... checked 840 million.
+... checked 850 million.
+... checked 860 million.
+... checked 870 million.
+... checked 880 million.
+... checked 890 million.
+330 sec - used   16.90 MB heap,    0.0 MB direct.
+... checked 900 million.
+... checked 910 million.
+... checked 920 million.
+... checked 930 million.
+... checked 940 million.
+... checked 950 million.
+... checked 960 million.
+... checked 970 million.
+... checked 980 million.
+340 sec - used   20.99 MB heap,    0.0 MB direct.
+... checked 990 million.
+... checked 1000 million.
+Took 115 ns per object read/check
+Took 7 ns per field to scan
+350 sec - used   36.45 MB heap,    0.0 MB direct.
+Took 735 ns per object to access randomly
+Finished
+357 sec - used    2.00 MB heap,    0.0 MB direct.
+
+0 sec - used    4.38 MB heap,    0.0 MB direct.
+0 sec - used    7.36 MB heap,    0.0 MB direct.
+0 sec - used    2.67 MB heap,    0.0 MB direct.
+Updating
+Took 0 ns per object write
+Checking
+... checked 10 million.
+... checked 20 million.
+... checked 30 million.
+... checked 40 million.
+... checked 50 million.
+... checked 60 million.
+... checked 70 million.
+... checked 80 million.
+10 sec - used    9.74 MB heap,    0.0 MB direct.
+... checked 90 million.
+... checked 100 million.
+... checked 110 million.
+... checked 120 million.
+... checked 130 million.
+... checked 140 million.
+... checked 150 million.
+... checked 160 million.
+... checked 170 million.
+20 sec - used   28.56 MB heap,    0.0 MB direct.
+... checked 180 million.
+... checked 190 million.
+... checked 200 million.
+... checked 210 million.
+... checked 220 million.
+... checked 230 million.
+... checked 240 million.
+... checked 250 million.
+... checked 260 million.
+30 sec - used   80.14 MB heap,    0.0 MB direct.
+... checked 270 million.
+... checked 280 million.
+... checked 290 million.
+... checked 300 million.
+... checked 310 million.
+... checked 320 million.
+... checked 330 million.
+... checked 340 million.
+... checked 350 million.
+40 sec - used   86.56 MB heap,    0.0 MB direct.
+... checked 360 million.
+... checked 370 million.
+... checked 380 million.
+... checked 390 million.
+... checked 400 million.
+... checked 410 million.
+... checked 420 million.
+... checked 430 million.
+... checked 440 million.
+50 sec - used  182.84 MB heap,    0.0 MB direct.
+... checked 450 million.
+... checked 460 million.
+... checked 470 million.
+... checked 480 million.
+... checked 490 million.
+... checked 500 million.
+... checked 510 million.
+... checked 520 million.
+... checked 530 million.
+60 sec - used  106.41 MB heap,    0.0 MB direct.
+... checked 540 million.
+... checked 550 million.
+... checked 560 million.
+... checked 570 million.
+... checked 580 million.
+... checked 590 million.
+... checked 600 million.
+... checked 610 million.
+... checked 620 million.
+70 sec - used   39.13 MB heap,    0.0 MB direct.
+... checked 630 million.
+... checked 640 million.
+... checked 650 million.
+... checked 660 million.
+... checked 670 million.
+... checked 680 million.
+... checked 690 million.
+... checked 700 million.
+80 sec - used  321.54 MB heap,    0.0 MB direct.
+... checked 710 million.
+... checked 720 million.
+... checked 730 million.
+... checked 740 million.
+... checked 750 million.
+... checked 760 million.
+... checked 770 million.
+... checked 780 million.
+... checked 790 million.
+90 sec - used  128.10 MB heap,    0.0 MB direct.
+... checked 800 million.
+... checked 810 million.
+... checked 820 million.
+... checked 830 million.
+... checked 840 million.
+... checked 850 million.
+... checked 860 million.
+... checked 870 million.
+... checked 880 million.
+100 sec - used  185.22 MB heap,    0.0 MB direct.
+... checked 890 million.
+... checked 900 million.
+... checked 910 million.
+... checked 920 million.
+... checked 930 million.
+... checked 940 million.
+... checked 950 million.
+... checked 960 million.
+... checked 970 million.
+110 sec - used  163.53 MB heap,    0.0 MB direct.
+... checked 980 million.
+... checked 990 million.
+... checked 1000 million.
+Took 112 ns per object read/check
+120 sec - used  109.86 MB heap,    0.0 MB direct.
+Took 7 ns per field to scan
+Took 681 ns per object to access randomly
+Finished
+127 sec - used    3.46 MB heap,    0.0 MB direct.
+
